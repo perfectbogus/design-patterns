@@ -6,7 +6,7 @@
  * ====================================================================================
  */
 
-package dev.perfectbogus.creational.builder.examples.stringbuilder;
+package dev.perfectbogus.creational.builder.examples.string;
 
 public class HtmlBuilder {
 

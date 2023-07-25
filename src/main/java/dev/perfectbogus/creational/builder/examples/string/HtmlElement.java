@@ -6,11 +6,10 @@
  * ====================================================================================
  */
 
-package dev.perfectbogus.creational.builder.examples.stringbuilder;
+package dev.perfectbogus.creational.builder.examples.string;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
-import lombok.ToString;
 
 import java.util.ArrayList;
 
