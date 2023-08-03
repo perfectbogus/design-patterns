@@ -12,18 +12,13 @@ import dev.perfectbogus.effective.java.item37.use.enummap.instead.of.ordinal.ind
 import dev.perfectbogus.effective.java.item37.use.enummap.instead.of.ordinal.indexing.solution.Phase;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.EnumMap;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.groupingBy;
-import static java.util.stream.Collectors.toList;
-import static java.util.stream.Collectors.toMap;
 import static java.util.stream.Collectors.toSet;
 
 public class Demo {
