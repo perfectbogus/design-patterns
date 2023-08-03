@@ -24,8 +24,8 @@ public enum Phase {
     SUBLIME(SOLID, GAS), DEPOSIT(GAS, SOLID),
     IONIZE(GAS, PLASMA), DEIONIZE(PLASMA, GAS);
 
-    private final Phase from;
-    private final Phase to;
+    public final Phase from;
+    public final Phase to;
 
     Transition(Phase from, Phase to) {
       this.from = from;
