@@ -8,8 +8,6 @@
 
 package dev.perfectbogus.effective.java.lambdas.and.streams.item44.favor.the.use.of.standard.functional.interfaces;
 
-import jdk.incubator.vector.VectorOperators;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.*;
