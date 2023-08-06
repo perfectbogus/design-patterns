@@ -33,6 +33,9 @@ public class Snippet {
      *  Array
      *  Constructor int[]::new                  len -> new int[len]
      *
+     *
+     *  Where method references are shorter and clearer, use them; where they aren't, stick with
+     *  lambdas
      */
 
 
