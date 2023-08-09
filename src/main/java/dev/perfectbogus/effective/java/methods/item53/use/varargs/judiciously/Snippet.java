@@ -38,4 +38,16 @@ public class Snippet {
     }
     return min;
   }
+
+  // right way to use varargs
+  private static int min(int firstArg, int... remainingArgs) {
+    int min = firstArg;
+    for (int arg : remainingArgs) {
+      if (arg < min) {
+        min = arg;
+      }
+    }
+    return min;
+  }
+
 }
