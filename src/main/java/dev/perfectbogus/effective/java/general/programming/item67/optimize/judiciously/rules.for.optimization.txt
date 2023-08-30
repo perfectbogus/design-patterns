@@ -1,0 +1,6 @@
+Rule 1:
+Dont do it.
+
+Rule 2:
+(for experts only) Don't do it yet - that is, not until you have a perfectly clear
+and unoptimized solution.
